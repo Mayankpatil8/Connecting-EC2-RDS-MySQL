@@ -27,6 +27,12 @@ It showcases practical knowledge of **AWS networking, security groups, IAM basic
 - AWS CLI (optional)
 
 
-![Uploading Screenshot 2025-12-30 170758.png…]()
 
 
+<img width="1059" height="662" alt="Screenshot 2024-02-03 214450" src="https://github.com/user-attachments/assets/742b9bce-3b2e-4640-80e0-497a91d36557" />
+<img width="1843" height="1027" alt="Screenshot 2025-12-30 171200" src="https://github.com/user-attachments/assets/9d0f05b8-c451-4113-a777-64e9b4cf0305" />
+<img width="1756" height="1007" alt="Screenshot 2025-12-30 171132" src="https://github.com/user-attachments/assets/d8507861-8ffa-449f-96be-710c3dd0b397" />
+<img width="1905" height="1033" alt="Screenshot 2025-12-30 171103" src="https://github.com/user-attachments/assets/433f42a5-4a05-47be-816c-dae306866615" />
+<img width="1898" height="992" alt="Screenshot 2025-12-30 171014" src="https://github.com/user-attachments/assets/4c16033f-7b41-4279-aa70-123afb940a9b" />
+<img width="1906" height="990" alt="Screenshot 2025-12-30 170851" src="https://github.com/user-attachments/assets/d5a84893-ab22-4513-9b7f-68a1fc65f6d0" />
+<img width="1919" height="980" alt="Screenshot 2025-12-30 170758" src="https://github.com/user-attachments/assets/668f7093-4f34-4119-b265-a9409ad4127a" />
